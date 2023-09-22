@@ -1,4 +1,4 @@
-# TIL
+ㄱ# TIL
 
 > Today I learned
 > 오늘 배운 내용을 기록해봅시다.
@@ -46,6 +46,24 @@ pull request
 
 
 
+
+## 230922
+
+### 0900-1800
+
+#### SQL UPDATE
+
+#### SQL INSERT
+
+#### SQL SELECT
+
+##### GROUP BY
+
+##### ORDER BY
+
+##### HAVING
+
+#### SQL JOIN
 
 
 
