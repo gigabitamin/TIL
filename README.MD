@@ -2,6 +2,14 @@
   
 ==================================  
 
+## 250627  
+- AICE 샘플 테스트 / aduino - mblock 연동 시 milli() 함수로 비동기 구현  
+
+# 250626  
+- ML XGBoost LightGBM / DL callbacks, history, best_model  
+- DL callbacks 에서 Modelcheckpoint 설정 시 load_model -> best_model 로 predict 후 성능 평가 진행  
+- hitory.history 에서 keys(), items() 로 loss 와 val_loss 값 확인 -> 하나의 차트에서 양 쪽 비교  
+
 # 250625  
 - AICE TEST 샘플문항 풀이 연습 : 전처리, ML, DL
 
