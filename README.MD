@@ -1,6 +1,10 @@
 # TIL (Today I learned)  
   
-==================================  
+================================== 
+
+# 250629  
+- aduino hurskey lens test : 탐색 한계, 정확도, threshold 테스트  
+- 허스키 렌즈에 obj1~obj4 학습, 화면에 포착된 obj와 갯수 OLED에 연동 출력, 임계값 설정  
 
 # 250628  
 - AICE 정리, sns.get_dataset_names(), .data_loadset() 이용해서 필요한 데이터 로딩(분류:'titanic'(생존자 분류) / 회귀:'diamonds'(가격 예측))  
