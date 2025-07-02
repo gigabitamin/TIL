@@ -2,14 +2,23 @@
   
 ================================== 
 
+# 250702  
+- arduino 프로젝트 정리 및 포트폴리오 작성, TOEIC HACKERS 기출 테스트    
+
+# 250701  
+- arduino 프로젝트 최종 마무리, SW 코딩자격 1급 예상 문제 회독    
+
+# 250630  
+- arduino 자이로스코프 센서, 및 온도/습도 센서 종합 테스트 및 프론트 출력 테스트, SQL 서버 테스트    
+
 # 250629  
-- aduino hurskey lens test : 탐색 한계, 정확도, threshold 테스트  
+- arduino hurskey lens test : 탐색 한계, 정확도, threshold 테스트  
 
 # 250628  
 - AICE 정리, sns.get_dataset_names(), .data_loadset() 이용해서 필요한 데이터 로딩(분류:'titanic'(생존자 분류) / 회귀:'diamonds'(가격 예측))  
 
 ## 250627  
-- AICE 샘플 테스트 / aduino - mblock 연동 시 milli() 함수로 비동기 구현  
+- AICE 샘플 테스트 / arduino - mblock 연동 시 milli() 함수로 비동기 구현  
 
 # 250626  
 - ML XGBoost LightGBM / DL callbacks, history, best_model  
