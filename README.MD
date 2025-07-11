@@ -3,7 +3,7 @@
 ================================== 
 
 ## 250711  
-- mount 용 로컬 doker image 생성, 아바타 ON/OFF 모드 추가, 네트워크 트래픽 최적화 고려한 페이지 로드 설계 리팩토링  
+- mount 용 로컬 doker image 생성, 아바타 ON/OFF 모드 추가, 페이지 로드 설계 리팩토링, 마크다운, LaTex, Charts 적용
 
 ## 250710  
 - 이미지+텍스트 멀티모달 응답 기능 추가, 수신 정상 확인, Railway 서버 구동 (url : https://hearthchat-production.up.railway.app)
