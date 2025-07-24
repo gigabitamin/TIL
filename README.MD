@@ -2,6 +2,15 @@
   
 ================================== 
 
+## 250724 
+- 가상화 메시지 react-virtuoso 로 리팩토링 : react-virtual 에서 DOM 에서 estimate 요소를 찾지 못하는 문제
+
+## 250723 
+- 가상화 메시지 react-virtual + ResizeObserver 으로 리팩토링 : react-window 메시지 중첩 문제
+
+## 250722 
+- pmx2vrm 아바타 모형 추가, 인터넷 배포 pmx 파일의 경우 커스텀 모델로 추가 확장 가능, 아바타 pose 리셋  
+
 ## 250721 v0.92  
 - 이미지 첨부 문제 해결, css 리뉴얼, app.js 전역 함수 리팩토링 
 
