@@ -2,6 +2,9 @@
   
 ================================== 
 
+## 250729 
+- LLM Project(Lily Generate), Mistral-7B Base, EleutherAIpolyglot-ko-1.3b, KoAlpaca-Polyglot-5.8B, DialoGPT-medium-0.8GB 모델 추가
+
 ## 250728
 - 소셜 로그인 단계 간략화, utility 함수 컴포넌트 사용(코드 재사용성 향상, 하드코딩 리팩토링), AI API 문서 parsing 출력 구조화
 
