@@ -2,6 +2,9 @@
   
 ================================== 
 
+## 250730
+- parameter finetuning, training 반복 및 test, 카카오톡 AI 모델 kanana-1.5-v-3b-instruct, kanana-1.5-2.1b-instruct-2505, kanana-nano-2.1b-instruct 추가
+
 ## 250729 
 - LLM Project(Lily Generate), Mistral-7B Base, EleutherAIpolyglot-ko-1.3b, KoAlpaca-Polyglot-5.8B, DialoGPT-medium-0.8GB 모델 추가
 
