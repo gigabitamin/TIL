@@ -2,8 +2,14 @@
   
 ================================== 
 
+# 250802 
+- 멀티모달 이미지+텍스트 테스트 generate 함수 중복 호출 수정, 동기-비동기 구조 개선
+
+## 250801
+- Kanana-1.5-v-3b-instruct image-to-text generate 모델, 멀티모달(이미지+텍스트) 응답 확인
+
 ## 250731 
-- 프로필 로직 변경 후 kanana-v-3b-instruct 추가 테스트, 비동기 로직 제거, 응답 속도 향상상
+- 프로필 로직 변경 후 kanana-v-3b-instruct 추가 테스트, 비동기 로직 제거, 응답 속도 향상
 
 ## 250730
 - parameter finetuning, training 반복 및 test, 카카오톡 AI 모델 kanana-1.5-v-3b-instruct, kanana-1.5-2.1b-instruct-2505, kanana-nano-2.1b-instruct 추가
