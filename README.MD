@@ -2,6 +2,15 @@
   
 ================================== 
 
+# 250808
+- FAST API 리팩토링 : HEARTH CHAT 통합 서비스 안정화 목표
+
+# 250807
+- 허깅페이스 Gradio 멀티모달 AI 파일첨부 시 '무한 로딩' 현상 디버깅
+
+# 250806
+- langchain system, lag system, 문서 기반 텍스트 검색, LaTeX-OCR
+
 # 250805
 - hearth chat 사이트 AI 선택 옵션에 Lily LLM 모델 추가, Lily LLM 멀티모달 이미지, PDF, DOC 응답 테스트
 
