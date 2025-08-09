@@ -2,8 +2,11 @@
   
 ================================== 
 
+# 250810
+- modeling 과 app_v2.py 리팩토링으로 cpu 환경에서 hearth chat 에서 전송한 메시지의 fast api 응답시간 620초 -> 30초 감소
+
 ## 250809
-- 허깅페이스 fast_api 서버와 연결
+- 허깅페이스 fast_api 서버와 연결, fallback 문제 해결
 
 # 250808
 - FAST API 리팩토링 : HEARTH CHAT 통합 서비스 안정화 목표
