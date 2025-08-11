@@ -1,6 +1,9 @@
 # TIL (Today I learned)  
   
-================================== 
+==================================
+
+# 250811
+- hearth chat railway 서버 + render 서버 추가 마이그레이션, 자동 ci/cd 파이프라인 추가
 
 # 250810
 - modeling 과 app_v2.py 리팩토링으로 cpu 환경에서 hearth chat 에서 전송한 메시지의 fast api 응답시간 620초 -> 30초 감소
