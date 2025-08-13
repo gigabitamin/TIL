@@ -2,6 +2,15 @@
   
 ==================================
 
+# 250814
+- render github ci/cd 에서 배포방식 변경경(github actions, dockerhub image import), fly.io 서버 이전
+
+## 250813
+- 1:1 화상채팅 p2p 웹소켓 연결, 테스트 완료. 
+
+## 250812
+- camera 목록 출력, 기존 webcam 외에 가상카메라나 아바타 화면 등 출력 가능, globalinput 입력창 카메라 촬영 후 자르기 선택 박스 수정(react-easy-crop -> react-image-crop)
+
 # 250811
 - hearth chat railway 서버 + render 서버 추가 마이그레이션, 자동 ci/cd 파이프라인 추가
 
