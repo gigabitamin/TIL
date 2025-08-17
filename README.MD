@@ -2,6 +2,18 @@
   
 ==================================
 
+# 250818
+- 배열 강제 코드의 적용 범위 조절, 웹소켓 메시지 출력 순서 꼬임 문제 해결
+
+# 250817
+- 서버 이전 작업 및 기능 추가, 모듈 분리 등으로 인한 오류들 fix, 부분 리팩토링링
+
+# 250816
+- fly io migrations 완료, 메인 앱과 redis 서버는 nrt(도쿄), postgres db 서버는 syd(시드니(호주))
+
+# 250815
+- fly io migrations, redis 서버 분리, 4개 서버 각각 환경별 테스트, redis tls off test -> success
+
 # 250814
 - render github ci/cd 에서 배포방식 변경경(github actions, dockerhub image import), fly.io 서버 이전
 
