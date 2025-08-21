@@ -2,6 +2,12 @@
   
 ==================================
 
+# 250822
+- polyglot 1.3b lora 파라메터 조절, 응답 품질 향상
+
+# 250821
+- polyplot 5.8b 응답 속도 개선, 모델별 tokenizer config settings json 변수 명시적으로 기입
+
 # 250820
 - lily llm kanana 3b 멀티모달 개선, polyglot 1.3b, 5.8b 응답 품질 개선
 
