@@ -2,6 +2,12 @@
   
 ==================================
 
+# 250830
+- 안드로이드 apk 리패키징, 릴리즈 버전 fix, css fix, 라이브러리 의존성 문제 fix
+
+# 250829
+- app store 등록 준비 및 테스트
+
 # 250828 v0.99.5
 - android apk package build complete, adb 연결, deubg & release virsion test
 
