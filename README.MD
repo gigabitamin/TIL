@@ -3,7 +3,7 @@
 ==================================
 
 # 250912
-- html to pptx convert object test
+- html to pptx convert object test, bs4 파싱 불완전, 잠정 중단
 
 # 250911
 - html to pptx 사용시 cdn 아이콘과 차트의 온전한 출력을 위해 selenium, puppeteer 사용해서 페이지 로드(지연시간 추가)
