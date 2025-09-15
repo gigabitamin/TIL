@@ -2,6 +2,8 @@
   
 ==================================
 
+- Ollama 를 이용한 llm ai 모델 테스트
+
 # 250915
 - otto diy base model aduino ide 구동, app inventer 로 블루투스 연결 및 조작 테스트
 
