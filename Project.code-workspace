@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"name": "Project",
+			"path": "../../../Project"
+		},
+		{
+			"name": "BATCH",
+			"path": "../../../BATCH"
+		},
+		{
+			"name": "TIL",
+			"path": "."
+		}
+	]
+}
